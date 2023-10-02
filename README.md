@@ -1,5 +1,25 @@
 # CIA-2_DAA
 
+Neural Network implementation on Bank Loan Data
+Wrote white box code for genetic algorithm, PSO, ACO, and Cultural Algorithms for optimization
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Research Papers referred:
